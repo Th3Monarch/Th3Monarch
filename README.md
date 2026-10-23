@@ -18,7 +18,7 @@
 
   <!-- SKILL ICONS -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,ts,js,py,kotlin,java,tauri,electron,react,android,nodejs,sqlite,git,maven,vscode" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=rust,ts,js,py,kotlin,java,tauri,electron,react,androidstudio,nodejs,sqlite,git,maven,vscode" alt="My Tech Stack" />
   </a>
 
 </div>
